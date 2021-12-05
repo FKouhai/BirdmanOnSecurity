@@ -3,11 +3,11 @@ title: "Basic Cybersecurity Notes"
 date: 2021-12-04T21:03:50+01:00
 ---
 
-# PREFACE \n
+# Introduction 
 
-This post contains some notes I have taken while doing some THM(Try Hack Me) challenges \n
+This post contains some notes I have taken while doing some THM(Try Hack Me) challenges 
 
-# NMAP Basic scan with outfile \n
+# NMAP Basic scan with outfile 
 
 nmap -sC -sV -oN /path/to/file ip
 
