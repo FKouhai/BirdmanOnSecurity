@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Birdman on Security</title><link>https://fkouhai.github.io/BirdmanOnSecurity/posts/</link><description>Recent content in Posts on Birdman on Security</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Dec 2021 21:03:50 +0100</lastBuildDate><atom:link href="https://fkouhai.github.io/BirdmanOnSecurity/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Basic Cybersecurity Notes</title><link>https://fkouhai.github.io/BirdmanOnSecurity/posts/first-post/</link><pubDate>Sat, 04 Dec 2021 21:03:50 +0100</pubDate><guid>https://fkouhai.github.io/BirdmanOnSecurity/posts/first-post/</guid><description>PREFACE \n This post contains some notes I have taken while doing some THM(Try Hack Me) challenges \n
+NMAP Basic scan with outfile \n nmap -sC -sV -oN /path/to/file ip
+Enum4linux-ng enumerating smb clients and servers
+use example
+python3 enum4linux-ng.py -U -A -R ip
+Hydra example hydra -l username -P /path/to/wordlist proto://ip
+Cracking the passphrase of an rsa key with John sh2john.py rsa_file &amp;gt; file.txt john file.txt
+Checkin for suid on a system run the following commands find / -perm -u=s -type f 2&amp;gt;/dev/null</description></item></channel></rss>
