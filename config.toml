@@ -7,7 +7,7 @@ theme = 'm10c'
   description = "Cybersecurity and Linux enthusiast"
   avatar = "avatar.jpg"
   [[params.social]]
-  icon = "github.png"
+  icon = "github"
   name = "github"
   url = "https://github.com/FKouhai"
 
