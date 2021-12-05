@@ -1,0 +1,13 @@
+baseURL = 'https://fkouhai.github.io/BirdmanOnSecurity/'
+languageCode = 'en-us'
+title = 'Birdman on Security'
+theme = 'm10c'
+[paramas]
+  author = "FBirdman"
+  description = "Cybersecurity and Linux enthusiast"
+  avatar = "avatar.jpg"
+  [[params.social]]
+  icon = "github.png"
+  name = "github"
+  url = "https://github.com/FKouhai"
+
